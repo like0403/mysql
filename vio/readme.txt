@@ -1,0 +1,1 @@
+virtual io系统，是对network io的封装

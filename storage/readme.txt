@@ -1,0 +1,1 @@
+存储引擎所在目录，如myisam, innodb, ndb等。

@@ -1,0 +1,1 @@
+ 客户端工具，如mysql, mysqladmin之类。

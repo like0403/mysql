@@ -1,0 +1,1 @@
+ readline, libedit¹¤¾ß¡£
